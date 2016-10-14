@@ -1,3 +1,5 @@
-# learn
-First repository, designed to help you learn all the things.</br>
-Line three of the ReadMe.md
+#learning
+
+LEARN!
+
+This is the first major update to this README.md file in 1 year. Let's see what we can do!
